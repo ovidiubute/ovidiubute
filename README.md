@@ -6,4 +6,6 @@ Currently, I am working as a Technical Lead at [Fabric](https://www.fabricdata.c
 
 In my spare time, I love traveling, tinkering with home automation, playing video games, and digging into books on economics and capital markets.
 
-You can find more information about me on my personal website: www.ovidiu.dev
+You can find more information about me on my personal website: https://ovidiu.dev
+
+Want to chat? Drop me an e-mail at hello@ovidiu.dev
