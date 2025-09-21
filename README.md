@@ -4,7 +4,7 @@ Welcome to my profile. I am a Software Engineer based in Romania. I've been codi
 
 Currently, I am working as a Technical Lead at [Fabric](https://www.fabricdata.com/). Fabric is Hollywood's go to title management solution.
 
-In my spare time, I love traveling, tinkering with home automation, playing video games, and digging into books on economics and capital markets.
+In my spare time, I love traveling, tinkering with home automation, playing video games, and reading about economics and capital markets.
 
 You can find more information about me on my personal website: https://ovidiu.dev
 
