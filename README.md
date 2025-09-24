@@ -28,6 +28,7 @@ Outside of work
 - 🏠 Automating my home and experimenting with IoT
 - 🎮 Immersing myself in great video games
 - 📚 Reading about economics and capital markets
+- 🌄 Staying active — whether that’s in the gym, the pool, or out on the trails
 
 ---
 
