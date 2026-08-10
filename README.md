@@ -1,37 +1,24 @@
-### Hi there 👋
+# Hi, I’m Ovi 👋
 
-I’m Ovidiu — a Software Engineer from Romania with a knack for building reliable systems and leading teams through complex challenges. My journey started back in 2005, and since then I’ve moved from experimenting with different languages to finding my sweet spot in the JavaScript ecosystem.
+I’m an engineering leader and software architect based in Romania. I build AI-native SaaS platforms, lead technical teams, and turn ambiguous product problems into systems that can evolve.
 
-Today I work as a Technical Lead at Fabric, helping shape Hollywood’s go-to solution for title management. Alongside application development, I’ve recently been diving deeper into cloud infrastructure — embracing the world of IaC and cloud-native tooling — which has been both humbling and exciting.
+I started writing software in 2005. Since then, I’ve worked across product and platform engineering at Hootsuite, Bolt, and Fabric—learning that good architecture is less about diagrams and more about making clear decisions under real constraints.
 
----
+Today, I lead engineering at [Fabric](https://www.fabricdata.com/), where we help media and entertainment companies manage complex content catalogs.
 
-⚒️ Toolbox
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black"/>
-</p>
+## What I work on
 
----
+- Multi-tenant SaaS architecture and fine-grained authorization
+- Metadata, ingestion, search, and developer platforms
+- Production systems that are observable, understandable, and built to change
+- Safe, legible interfaces between software systems and AI agents
 
-📖 Currently learning
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20(in%20progress)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+## What I write about
 
+On [ovidiu.dev](https://ovidiu.dev), I publish **Engineering for the Agentic Era**: practitioner notes on how AI changes architecture, infrastructure, tool selection, and the way engineering teams make decisions.
 
-Outside of work
-- ✈️ Exploring new places and cultures
-- 🏠 Automating my home and experimenting with IoT
-- 🎮 Immersing myself in great video games
-- 📚 Reading about economics and capital markets
-- 🌄 Staying active — whether that’s in the gym, the pool, or out on the trails
+## Beyond the systems
 
----
+Away from work, I’m usually traveling, gaming, automating something at home, staying active, or reading about economics and markets.
 
-Connect with me
-- Website: ovidiu.dev
-- Email: hello@ovidiu.dev
+[Website](https://ovidiu.dev) · [LinkedIn](https://www.linkedin.com/in/ovidiubute/) · [Email](mailto:hello@ovidiu.dev)
